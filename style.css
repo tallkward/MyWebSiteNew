@@ -11,18 +11,10 @@ html, body, .first {
     
 }
 
-.first{
+.home{
         background-image: url(ocean.jpg);
         height:100%;
-}/*
-.second{
-    height:100%;
-    background-image: url(fancy-pants.jpg);
-    color:white;
-   }
-.third{height: 100%;
 }
-   */
 
 .title{
         font-family: 'Roboto Slab', serif;
@@ -32,6 +24,10 @@ html, body, .first {
 .subtitle{   
         font-family: 'Raleway', sans-serif;
         color:white;
+}
+.subtitleBlack{   
+        font-family: 'Raleway', sans-serif;
+        
 }
 .create{
         font-family: 'Roboto Slab', serif;
