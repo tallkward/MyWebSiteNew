@@ -5,7 +5,7 @@ html, body, .first {
     min-height: 100% !important;
     height: 100%;
 }
-.bar{background-color: rgba(0,0,0,0.5);
+.bar{background-color: rgba(0,0,0,0.4);
     width:100%;
     position:relative;
     
@@ -14,19 +14,16 @@ html, body, .first {
 .first{
         background-image: url(ocean.jpg);
         height:100%;
-}
+}/*
 .second{
     height:100%;
     background-image: url(fancy-pants.jpg);
     color:white;
    }
-   
-.recent{
-    font-family: 'Roboto Slab', serif;
-        color:white; 
-        text-align: center;
-        
+.third{height: 100%;
 }
+   */
+
 .title{
         font-family: 'Roboto Slab', serif;
         color:#1779BA;
@@ -60,26 +57,3 @@ html, body, .first {
    
 }
 
-.second img{
-    width:30em;
-    margin-top:4em;
-   
-}
-.site{
-    text-align: center;
-    
-}
-.heads{
-        font-family: 'Roboto Slab', serif;
-        color:#1779BA;
-        font-size:2em;
-        text-align: center;
-        margin-top:1.5em;
-        margin-bottom:0.5em;
-}
-.para{
-        font-family: 'Raleway', sans-serif;
-        color:white;
-}
-
-fixed{position:fixed;}
